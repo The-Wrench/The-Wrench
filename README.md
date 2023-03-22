@@ -17,9 +17,6 @@
   </a>
 </div>
 
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('support me!', '#c800ff', 'D1D4JOPBA');kofiwidget2.draw();</script> 
-
 <div id="header" align="left">
 	<img src="https://komarev.com/ghpvc/?username=The-Wrench&style=flat-square&color=800080" alt=""/>
 	
