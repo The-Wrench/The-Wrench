@@ -1,4 +1,4 @@
-### WHO DIS ?
+### WHO IS THIS ?
 
 <div id="header" align="left">
 	<img src="https://media.tenor.com/mAc8NGZWrEEAAAAC/wrench-cult-of-ashes.gif" width="300"/>
