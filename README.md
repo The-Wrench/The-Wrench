@@ -16,10 +16,11 @@
     <img src="https://img.shields.io/badge/Twitter-0038A8?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<div id="header" align="left">
+<!--
+	<div id="header" align="left">
 	<img src="https://komarev.com/ghpvc/?username=The-Wrench&style=flat-square&color=800080" alt=""/>
 	
-</div>
+	</div>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D4JOPBA)
+	[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D4JOPBA)
+-->
